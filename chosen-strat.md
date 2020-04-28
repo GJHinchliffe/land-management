@@ -1,24 +1,20 @@
 # Land Management
-## Plan of Action
+## Chosen Strategies
 ### Table of Contents
-1. [Rush Management](#rush-management)
-2. [Drainage](#drainage)
-3. [Hedgerows & Nature Borders](#hedgerows-&-nature-borders)
-4. [Wildflowers](#wildflowers)
-5. [Livestock](#livestock)
+1. [Wildflower Meadow & Pasture](#wildflower-meadow-&-pasture)
+2. [Nature Borders](#nature-boarders)
+3. [Pedigree Dorset Sheep Breeding](#Pedigree-Dorset-Sheep-Breeding)
+4. [Free-Ranged Eggs](#free-ranged-eggs)
 
 ---
 
-### Rush Management
+### Wildflower Meadow & Pasture
 
 
-### Drainage
+### Nature Borders
 
 
-### Hedgerows & Nature Borders
+### Pedigree Dorset Sheep Breeding
 
 
-### Wildflowers
-
-
-### Livestock
+### Free-Ranged Eggs
