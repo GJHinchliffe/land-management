@@ -5,6 +5,6 @@ This repository is intended to document thoughts and ideas on the sustainable ma
 ---
 
 ## Phases
-0. [Brainstorming](..blob/master/brainstorming.md)
-0. [Chosen Strategies](..blob/master/chosen-stat.md)
-0. [Plan of Action](..blob/master/action-plan.md)
+0. [Brainstorming](..brainstorming.md)
+0. [Chosen Strategies](..chosen-stat.md)
+0. [Plan of Action](..action-plan.md)
