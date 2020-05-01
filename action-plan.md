@@ -1,7 +1,7 @@
 # Land Management
 ## Plan of Action
 ### Table of Contents
-1. [Wildflower Meadow & Pasture](#wildflower-meadow-&-pasture)
+1. [Wildflower Meadow & Pasture](#wildflower-meadow--pasture)
 	1. [Drainage](#drainage)
 	2. [Rush Management](#rush-management)
 	3. [Ground Preparation](#ground-preparation)
