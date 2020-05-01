@@ -50,7 +50,7 @@ The wildflower meadow and pasture could be the primary food source for the sheep
 #### Other Sheep Products
 ##### Tups
 Due to their pedigree it should be possible to sell the young tups at a higher price for breeding.
-#### Wool
+##### Wool
 **Although this needs further research, I am led to believe that Dorset wool has a higher value than other sheep breeds. This is certainly worth looking into.**
 
 ### Honey Bees
