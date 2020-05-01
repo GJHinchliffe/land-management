@@ -18,7 +18,7 @@
 
 ### Nature Borders
 In order to improve the variety of the ecosystem some consideration has been given to creating a 'nature border' around the field. The various ways such a border could be achieved are outlined below 
-##### Fencing
+#### Fencing
 The border will need to be physically separated from the rest of the field to ensure the prosperity of the plant speicies within. Without this it will be too easy for the animals or machinery to distupt the species.
 
 The most effective way to achieve such a border in a short timescale is to fence off an area around the perimiter of the land in which the border will exist.
