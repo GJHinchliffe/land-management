@@ -32,11 +32,11 @@ A hedge is one of the possible forms the border could take. This form has well u
 #### Wooded Area
 As an alternative to a hedge, the possibility of creating a thin strip of woodland is also being considered. This woodland would also lie in the strip of land created by the double fence.
 ##### Funding
-*Whether or not funding is available for this proposal is currently unknown; this is something that needs to be researched.*
+**Whether or not funding is available for this proposal is currently unknown; this is something that needs to be researched.**
 
 If it is not possible to find any information about this online, it appears that another local farm have adopted such an idea and as such they could be approached to see if there is indeed funding available.
 ##### Sourcing Trees
-Such an area would, of course, also require trees. *It is, however, unknown whether the woodland trust would be able to provide trees for this purpose.* We have accress to a fairly large number of small saplings which could be used to fill a section of the perimiter, however there are not enough to fill the entire border. *As such, further research must be done on how to obtain trees for this purpose.*
+Such an area would, of course, also require trees. **It is, however, unknown whether the woodland trust would be able to provide trees for this purpose.** We have accress to a fairly large number of small saplings which could be used to fill a section of the perimiter, however there are not enough to fill the entire border. **As such, further research must be done on how to obtain trees for this purpose.**
 ### Pedigree Dorset Sheep Breeding
 
 
