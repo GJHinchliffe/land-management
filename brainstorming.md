@@ -21,6 +21,9 @@ Further information on how the wildflower meadow and pasture should be managed c
 + Common Rush
 + Poaching
 
+Once these issues have been addressed to a sufficient level the wildflower meadow could be developed. This would then provide a food source which would be grazed and harvested to feed to animals during the winter months. For the meadow and pasture to fulfill this purpose, serious thought would have to be given to the grazing cycle, ensuring that the wildflower seeds have sufficient time to flower and produce seed before they are eaten or mown. Possible cycles are proposed in the [Magnificent Meadows document](magnificnet-meadows--hay_meadow_and_pasture_management.pdf), however they do not address the issue of animal storage and food supply during the growing periods. One possible way of managing this predicament is with mob grazing.
+#### Mob Grazing
+
 ### Nature Borders
 In order to improve the variety of the ecosystem some consideration has been given to creating a 'nature border' around the field. The various ways such a border could be achieved are outlined below 
 #### Fencing
@@ -43,16 +46,23 @@ If it is not possible to find any information about this online, it appears that
 ##### Sourcing Trees
 Such an area would, of course, also require trees. **It is, however, unknown whether the woodland trust would be able to provide trees for this purpose.** We have accress to a fairly large number of small saplings which could be used to fill a section of the perimiter, however there are not enough to fill the entire border. **As such, further research must be done on how to obtain trees for this purpose.**
 ### Pedigree Dorset Sheep Breeding
-
+The wildflower meadow and pasture could be the primary food source for the sheep, however, as mentioned [above](#-Wildflower-Meadow-&-Pasture), some thought will have to be given to the rotation of the sheep to ensure that the wildflowers are given suffient time to flower and seed. **There are further question marks over how many sheep the land can home.** However, once this is determined, the current flock of 5 Dorset ewes can be used as breeding stock to grow the herd up to a sustainable level; whenceforth any additional flock members can be sold as either breeding stock or for meat. **Is it possible that this meat will have higher value due to the way in which it will have been raised? (i.e. through organic farming methods on a wildflower meadow/pasture)**
+#### Other Sheep Products
+##### Tups
+Due to their pedigree it should be possible to sell the young tups at a higher price for breeding.
+#### Wool
+**Although this needs further research, I am led to believe that Dorset wool has a higher value than other sheep breeds. This is certainly worth looking into.**
 
 ### Honey Bees
 
 
 ### Free-Ranged Eggs
+#### Chickens
+#### Quails
 
 
 ### Market Garden
-
+There are multiple large greenhouses and raised beds on site, which, although currently overrun, could be made productive again and facilitate the production of fruit and vegatables for a 'market garden'.
 
 ### Goat's Dairy Products
 
