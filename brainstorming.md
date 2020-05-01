@@ -14,7 +14,12 @@
 ---
 
 ### Wildflower Meadow & Pasture
+Creating a wildflower meadow and pasture would improve the quality of the land by multiple metrics. Firstly, it will help to improve the variety of flora and fauna species present, while also improving the quantity of food produced by the land. This is due to the current prevalance of common rush on the land, which is well-suited to the wet, acidic soil.
 
+Further information on how the wildflower meadow and pasture should be managed can be found in [this](magnificnet-meadows--hay_meadow_and_pasture_management.pdf) document produced by [Magnificent Meadows](http://www.magnificentmeadows.org.uk/). However, before the land can be developed into a wildflower meadow and pasture, there are multiple issues which first need to be addressed:
++ Drainage
++ Common Rush
++ Poaching
 
 ### Nature Borders
 In order to improve the variety of the ecosystem some consideration has been given to creating a 'nature border' around the field. The various ways such a border could be achieved are outlined below 
