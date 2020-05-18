@@ -36,7 +36,7 @@ The current plot already has a perimiter fence, however a second fence will need
 A hedge is one of the possible forms the border could take. This form has well understood benefits to the local ecosystem, to the extent that public funding is available to those wishing to plant one. More details about this funding model can be found below.
 ##### Funding
 ##### Sourcing Trees
-Tree whips can be purchased for approx. £0.50 each.
+Tree whips can be purchased for approx. £0.50 each. -https://www.millfarmtrees.co.uk/hedging-plants-c1/hawthorn-p15
 ###### Woodland Trust
 #### Wooded Area
 As an alternative to a hedge, the possibility of creating a thin strip of woodland is also being considered. This woodland would also lie in the strip of land created by the double fence.
